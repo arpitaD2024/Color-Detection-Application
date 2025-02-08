@@ -3,9 +3,6 @@
 ## Description
 This application allows users to upload images and detect the most dominant color present in the image. It utilizes KMeans clustering to analyze the image and identify the color that appears most frequently.
 
-## GUI Output
-![image cannot be displayed](gui_result.png)
-
 ## Features
 - User-friendly GUI built with Tkinter.
 - Upload images in JPG, PNG, or JPEG formats.

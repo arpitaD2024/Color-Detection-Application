@@ -18,12 +18,12 @@ This application allows users to upload images and detect the most dominant colo
 2. Navigate to the project directory:
  
    ```bash
-       cd dominant-color-detection
+   cd dominant-color-detection
    ```
 3. Install the required dependencies:
  
    ```bash
-       pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 ## Usage
 1. Run the application:

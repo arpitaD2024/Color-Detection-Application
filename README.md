@@ -11,16 +11,19 @@ This application allows users to upload images and detect the most dominant colo
 
 ## Installation
 1. Clone the repository:
+ 
    ```bash
-   git clone https://github.com/yourusername/dominant-color-detection.git
+    	  git clone https://github.com/yourusername/dominant-color-detection.git
    ```
 2. Navigate to the project directory:
+ 
    ```bash
-    cd dominant-color-detection
+       cd dominant-color-detection
    ```
 3. Install the required dependencies:
+ 
    ```bash
-    pip install -r requirements.txt
+       pip install -r requirements.txt
    ```
 ## Usage
 1. Run the application:
